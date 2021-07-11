@@ -1,0 +1,29 @@
+body {
+  background-color: #373e40;
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, serif;
+}
+
+
+
+h1 {
+  font-family: 'Zen Tokyo Zoo', cursive;
+  font-size: 4.4rem;
+  text-align: center;
+  color: #77878b;
+}
+
+
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 1.8rem;
+  margin-left: 5rem;
+  margin-right: 15rem;
+  color: #B7D5D4;
+}
+
+.lead {
+  text-align: center;
+}
