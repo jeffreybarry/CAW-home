@@ -12,7 +12,10 @@ font-weight: 100;
 
 }
 
-
+.page-wrapper {
+  background-color: #373E40;
+  background: rgba(55, 62, 64, 0.75);
+}
 
 h1 {
   font-size: 4.4rem;
@@ -24,17 +27,17 @@ h1 {
 
 p {
   font-size: 1.1rem;
+  font-weight: 200;
 
 }
 
 .lead {
   text-align: center;
   font-size: 2rem;
+  line-height: 1.75rem;
 }
 
 .brand-name {
   font-variant: small-caps;
 
 }
-
- 
