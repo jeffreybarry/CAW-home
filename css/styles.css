@@ -4,9 +4,11 @@ width: 100vw;
   margin: 0;
   padding: 0;
   font-family: Georgia, serif;
-  background-image: url('../images/wolf-3000w.jpg');
+  background-image: url('../images/wolf-zoom-3000w.png');
  background-size: cover;
  background-repeat: no-repeat;
+ color: white;
+
 }
 
 
