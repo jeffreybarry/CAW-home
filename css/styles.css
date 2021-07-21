@@ -14,8 +14,14 @@ font-weight: 100;
 
 .page-wrapper {
   background-color: #373E40;
-  background: rgba(55, 62, 64, 0.75);
+  background: rgba(55, 62, 64, 0.9);
+  margin-top: 2rem;
 }
+
+.vertical-center {
+
+}
+
 
 h1 {
   font-size: 4.4rem;
