@@ -3,7 +3,8 @@ height: 100vh;
 width: 100vw;
   margin: 0;
   padding: 0;
-  font-family: Georgia, serif;
+font-family: 'Roboto Slab', serif;
+font-weight: 100;
   background-image: url('../images/wolf-zoom-3000w.png');
  background-size: cover;
  background-repeat: no-repeat;
@@ -14,18 +15,16 @@ width: 100vw;
 
 
 h1 {
-  font-family: 'Merriweather', serif;
   font-size: 4.4rem;
   text-align: center;
+  font-weight: 100;
 }
 
 
 
 p {
-  font-family: 'Merriweather', serif;
-  font-size: 1.8rem;
-  margin-left: 5rem;
-  margin-right: 15rem;
+  font-size: 1.1rem;
+
 }
 
 .lead {
@@ -34,9 +33,8 @@ p {
 }
 
 .brand-name {
-  font-size: 2.2rem;
+  font-variant: small-caps;
 
 }
 
-.section-3 {
-}
+ 
