@@ -1,0 +1,19 @@
+{
+  "name": "caw-home",
+  "version": "1.0.0",
+  "description": "caw site",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/main.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreybarry/CAW-home.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreybarry/CAW-home/issues"
+  },
+  "homepage": "https://github.com/jeffreybarry/CAW-home#readme"
+}
